@@ -1,2 +1,2 @@
 # html-resume
-capstone project 1
+HTML Resume Capstone Project
